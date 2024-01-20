@@ -1,0 +1,195 @@
+// =============================================================
+// //                      Common Css
+// //      =============================================================
+
+.text-golapi {
+  color: #eb1933;
+}
+.bg-golapi {
+  background: #eb1933;
+}
+.bg-golapi:hover {
+  background: #eb1933;
+}
+.outlinebtn {
+  background: #eb1933;
+  color: #ffffff;
+}
+.comapanies{
+  img{
+    height: 60px;
+    margin: 0,0;
+  }
+}
+.outlinebtn:hover {
+  background: none;
+  color: #eb1933;
+  border: 1px solid #eb1933 !important;
+}
+.outlinebtn2 {  background: none;
+  color: #eb1933;
+  border: 1px solid #eb1933;
+}
+.outlinebtn2:hover {
+  background: #eb1933;
+  color: #ffffff;
+}
+
+.rc-slider-track {
+  height: 6px !important;
+  background: #eb1933 !important;
+}
+
+
+.rc-slider-rail {
+  height: 6px !important;
+}
+.rc-slider-handle {
+  margin-top: -7px !important;
+  height: 20px !important;
+  width: 20px !important;
+  border: 4px solid #eb1933 !important;
+  cursor: pointer !important;
+}
+.rc-slider-handle:active {
+  border-color: #eb1933 !important;
+  box-shadow: 0 0 5px #eb1933 !important;
+  cursor: pointer !important;
+}
+@mixin transition($value) {
+  transition: $value;
+  -webkit-transition: $value;
+  -moz-transition: $value;
+  -ms-transition: $value;
+  -o-transition: $value;
+}
+
+@mixin transform-scale($value) {
+  transform: scale($value);
+  -webkit-transform: scale($value);
+  -moz-transform: scale($value);
+  -ms-transform: scale($value);
+  -o-transform: scale($value);
+}
+
+@mixin transform-rotate($value) {
+  transform: rotate($value);
+  -webkit-transform: rotate($value);
+  -moz-transform: rotate($value);
+  -ms-transform: rotate($value);
+  -o-transform: rotate($value);
+}
+
+@mixin border-radious($value) {
+  border-radius: $value;
+  -webkit-border-radius: $value;
+  -moz-border-radius: $value;
+  -ms-border-radius: $value;
+  -o-border-radius: $value;
+}
+
+@mixin translatey($value) {
+  transform: translateY($value);
+  -webkit-transform: translateY($value);
+  -moz-transform: translateY($value);
+  -ms-transform: translateY($value);
+  -o-transform: translateY($value);
+}
+
+@mixin transform($value) {
+  transform: $value;
+  -webkit-transform: $value;
+  -moz-transform: $value;
+  -ms-transform: $value;
+  -o-transform: $value;
+}
+.checkbox{
+  @include border-radious(4px);
+}
+.checkbox:checked {
+  background-size: 15px;
+  background-color: #eb1933 !important;
+  border-color: #eb1933 !important;
+}
+
+.checkbox:checked[type="checkbox"] {
+  background-position: center;
+  background-image: url("./images/tikmark.png") !important;
+}
+
+.sidebar {
+  a {
+    display: block;
+    padding: 10px 13px;
+    margin: 0 auto;
+  }
+  .active {
+    background: white !important;
+    margin: 0 auto;
+    @include border-radious(100px);
+    display: block;
+    color: #1a1713 !important;
+  }
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #0000003e;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background-color: #cde3fe;
+}
+
+.drawer-side {
+  a {
+    background: transparent !important;
+    margin: 5px 0px;
+  }
+  li {
+    .active {
+      background: #00000000 !important;
+    }
+  }
+}
+
+.rdrDayToday .rdrDayNumber span:after {
+  background: #eb1933 !important;
+}
+
+.rdrCalendarWrapper {
+  font-size: 14px !important;
+}
+.rdrCalendarWrapper {
+  font-size: 14px !important;
+  .rdrMonths {
+    margin-top: 20px;
+  }
+  .rdrNextPrevButton {
+    height: 30px;
+    width: 30px !important;
+    background: #ed2e45;
+    clip-path: polygon(
+      0% 0%,
+      0% 100%,
+      25% 100%,
+      21% 51%,
+      65% 29%,
+      65% 74%,
+      20% 51%,
+      25% 100%,
+      100% 100%,
+      100% 0%
+    );
+    i {
+      display: none;
+    }
+  }
+  .rdrNextPrevButton:hover {
+    background: #ed2e45 !important;
+  }
+}

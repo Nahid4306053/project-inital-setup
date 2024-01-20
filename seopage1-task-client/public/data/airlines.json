@@ -1,0 +1,422 @@
+[
+  
+  {
+    "airline": "Biman Bangladesh Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BG.png",
+    "departure": {
+      "time": "16:25",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 45
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "17:10",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3202,
+    "isRefundable": true
+  },
+  {
+    "airline": "Biman Bangladesh Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BG.png",
+    "departure": {
+      "time": "18:35",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 45
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "19:20",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3202,
+    "isRefundable": true
+  },
+  {
+    "airline": "Biman Bangladesh Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BG.png",
+    "departure": {
+      "time": "19:40",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 45
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "20:25",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3202,
+    "isRefundable": true
+  },
+  {
+    "airline": "Biman Bangladesh Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BG.png",
+    "departure": {
+      "time": "15:15",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "16:15",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3369,
+    "isRefundable": true
+  },
+  {
+    "airline": "Biman Bangladesh Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BG.png",
+    "departure": {
+      "time": "15:15",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 1,
+        "minutes": 0
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "16:15",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3378,
+    "isRefundable": true
+  },
+  {
+    "airline": "US Bangla Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BS.png",
+    "departure": {
+      "time": "18:00",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "18:55",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3954,
+    "isRefundable": true
+  },
+  {
+    "airline": "US Bangla Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BS.png",
+    "departure": {
+      "time": "20:25",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "21:20",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3954,
+    "isRefundable": true
+  },
+  {
+    "airline": "Biman Bangladesh Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BG.png",
+    "departure": {
+      "time": "16:25",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 45
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "17:10",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3202,
+    "isRefundable": true
+  },
+  {
+    "airline": "Biman Bangladesh Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BG.png",
+    "departure": {
+      "time": "18:35",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 45
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "19:20",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3202,
+    "isRefundable": true
+  },
+  {
+    "airline": "Biman Bangladesh Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BG.png",
+    "departure": {
+      "time": "19:40",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 45
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "20:25",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3202,
+    "isRefundable": true
+  },{
+    "airline": "Air Astra",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/2A.png",
+    "departure": {
+      "time": "19:30",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "20:25",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 3954,
+    "isRefundable": true
+  },
+  {
+    "airline": "US Bangla Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BS.png",
+    "departure": {
+      "time": "07:15",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "08:10",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 4134,
+    "isRefundable": true
+  },
+  {
+    "airline": "US Bangla Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BS.png",
+    "departure": {
+      "time": "15:00",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "15:55",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 4134,
+    "isRefundable": true
+  },
+  {
+    "airline": "US Bangla Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BS.png",
+    "departure": {
+      "time": "20:00",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "20:55",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 4134,
+    "isRefundable": true
+  },
+  {
+    "airline": "Air Astra",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/2A.png",
+    "departure": {
+      "time": "07:30",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "08:25",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 4134,
+    "isRefundable": true
+  },
+  {
+    "airline": "Air Astra",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/2A.png",
+    "departure": {
+      "time": "10:30",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "11:25",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 4134,
+    "isRefundable": true
+  },
+  {
+    "airline": "Novo Air",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/VQ.png",
+    "departure": {
+      "time": "14:00",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "14:55",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 4139,
+    "isRefundable": true
+  },
+  {
+    "airline": "Novo Air",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/VQ.png",
+    "departure": {
+      "time": "19:40",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "20:35",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 4139,
+    "isRefundable": true
+  },
+  {
+    "airline": "US Bangla Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BS.png",
+    "departure": {
+      "time": "09:30",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "10:25",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 4761,
+    "isRefundable": true
+  },
+  {
+    "airline": "US Bangla Airlines",
+    "logo": "https://airlineimages.s3.ap-southeast-1.amazonaws.com/128/BS.png",
+    "departure": {
+      "time": "11:30",
+      "date": "2024-01-17",
+      "location": "Dhaka (DAC)",
+      "duration": {
+        "hours": 0,
+        "minutes": 55
+      },
+      "shape": "Non Stop"
+    },
+    "arrival": {
+      "time": "12:25",
+      "date": "2024-01-17",
+      "location": "Chittagong (CGP)"
+    },
+    "price": 4761,
+    "isRefundable": true
+  }
+]

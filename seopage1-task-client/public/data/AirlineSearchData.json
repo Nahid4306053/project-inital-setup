@@ -1,0 +1,57 @@
+[
+  {
+    "location": "Dhaka, Bangladesh",
+    "airport": "Hazrat Shahjalal International Airport",
+    "code": "DAC"
+  },
+  {
+    "location": "Chittagong, Bangladesh",
+    "airport": "Shah Amanat International",
+    "code": "CGP"
+  },
+  {
+    "location": "Cox's Bazar, Bangladesh",
+    "airport": "Cox's Bazar",
+    "code": "CXB"
+  },
+  {
+    "location": "Sylhet, Bangladesh",
+    "airport": "Sylhet Civil",
+    "code": "ZYL"
+  },
+  {
+    "location": "Saidpur, Bangladesh",
+    "airport": "Saidpur",
+    "code": "SPD"
+  },
+  {
+    "location": "Rajshahi, Bangladesh",
+    "airport": "Rajshahi",
+    "code": "RJH"
+  },
+  {
+    "location": "Barisal, Bangladesh",
+    "airport": "Barisal Barisal Airport",
+    "code": "BZL"
+  },
+  {
+    "location": "Jessore, Bangladesh",
+    "airport": "Jessore",
+    "code": "JSR"
+  },
+  {
+    "location": "Kolkata, India",
+    "airport": "Calcutta",
+    "code": "CCU"
+  },
+  {
+    "location": "Delhi, India",
+    "airport": "Indira Gandhi Airport",
+    "code": "DEL"
+  },
+  {
+    "location": "Dubai, United Arab Emirates",
+    "airport": "Dubai",
+    "code": "DXB"
+  }
+]
